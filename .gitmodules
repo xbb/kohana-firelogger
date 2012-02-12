@@ -1,0 +1,3 @@
+[submodule "vendor/firelogger"]
+	path = vendor/firelogger
+	url = git://github.com/darwin/firelogger.php.git
